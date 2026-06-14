@@ -278,7 +278,6 @@ Represented **Google Gemini** as an official Google Student Ambassador at BVRIT 
 | 🏆 **LeetCode 100+ Problems** | Solved 100+ DSA problems across data structures and algorithms |
 | ⭐ **HackerRank 5-Star** | Earned 5-Star badges in Problem Solving and Java |
 | 🌐 **Google Student Ambassador** | Official Google Gemini campus representative at BVRIT · 40%+ engagement growth |
-| 🏅 **Demux Hackathon** | Built and presented a complete working project end-to-end |
 
 </div>
 
@@ -289,19 +288,10 @@ Represented **Google Gemini** as an official Google Student Ambassador at BVRIT 
 <div align="center">
 
 ### NPTEL
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;
-![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine%20Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white)
-&nbsp;
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=cplusplus&logoColor=white)
+![NPTEL Elite Gold](https://img.shields.io/badge/NPTEL-Business%20Entrepreneurship%20%7C%20Elite%20Gold-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white)
 
-### Cisco
-![Cisco Networks](https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-&nbsp;
-![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-### Google
-![Google](https://img.shields.io/badge/Google-Gemini%20Ambassador%20Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### Microsoft
+![Microsoft MLSA](https://img.shields.io/badge/Microsoft-Learn%20Student%20Ambassador%20(MLSA)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -311,13 +301,13 @@ Represented **Google Gemini** as an official Google Student Ambassador at BVRIT 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/akshithaganji)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akshitha1111)
 &nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20%7C%20Problem%20Solving%20%26%20Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/akshithaganji)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20%7C%20Problem%20Solving%20%26%20Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akshithaganji11)
 &nbsp;&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-akshithaganji-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akshithaganji)
+[![CodeChef](https://img.shields.io/badge/CodeChef-akshithaganji1-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akshithaganji1)
 &nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-akshithaganji-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/akshithaganji)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-akshithahvga-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/akshithahvga)
 
 </div>
 
